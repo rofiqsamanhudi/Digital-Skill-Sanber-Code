@@ -1,18 +1,35 @@
-## Getting Started
+# 🚀 Digital Skill SanberCode - Learning Journey
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+![SanberCode Shield](https://img.shields.io/badge/Bootcamp-SanberCode-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Focus](https://img.shields.io/badge/Focus-QA%20Automation%20%2F%20Web%20Dev-blue)
 
-## Folder Structure
+## 📖 Tentang Repository Ini
 
-The workspace contains two folders by default, where:
+Repository ini dibuat untuk mendokumentasikan seluruh tugas harian, kuis, dan proyek akhir yang saya kerjakan selama mengikuti program **Digital Skill Bootcamp** yang diselenggarakan oleh **SanberCode**.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Tujuan utama dari repository ini adalah sebagai arsip pembelajaran dan portofolio pengembangan skill pemrograman saya.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🛠️ Tech Stack & Tools
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Teknologi dan tools yang digunakan dalam repository ini meliputi:
 
-## Dependency Management
+* **Bahasa Pemrograman:** [Contoh: Python, JavaScript, PHP]
+* **Framework/Library:** [Contoh: Selenium, Cypress, Laravel, React]
+* **Tools Lain:** [Contoh: Postman, Git, VS Code, MySQL]
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📂 Struktur Folder
+
+File-file diatur berdasarkan materi mingguan atau topik spesifik:
+
+```text
+├── Pekan 1 - Dasar Pemrograman
+│   ├── Tugas-1-String-Looping
+│   └── Tugas-2-Function
+├── Pekan 2 - Pendalaman Materi
+│   ├── Tugas-OOP
+│   └── Tugas-Database
+├── Pekan 3 - Framework & Testing
+│   └── Automation-Testing-Script
+└── Final-Project
+    └── [Nama Project Akhir Kamu]
